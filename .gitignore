@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.TemporaryItems
+.fseventsd
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# Claude Code local tooling (skills cache, lock files) — not part of the site
+.claude/
+.agents/
+skills-lock.json
+
+# Temporary / backup files
+*.tmp
+*.bak
+*~
+*.swp
+*.swo
+Thumbs.db
